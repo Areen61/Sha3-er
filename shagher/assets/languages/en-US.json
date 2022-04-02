@@ -1,0 +1,15 @@
+{
+    "appName": "Sha3'r",
+    "welcomeMessage": "Welcome to Sha3'r for employement",
+    "userName": "User name",
+    "userProfile": "User profile",
+    "language": "Language",
+    "themes": "Themes",
+    "termsAndConditions": "Terms and conditions",
+    "darkMode": "Dark mode",
+    "lightMode": "Light mode",
+    "selectLanguage": "Please select a language",
+    "english": "English",
+    "arabic": "Arabic",
+    "cancel": "Cancel"
+}
