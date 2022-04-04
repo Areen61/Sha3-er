@@ -1,0 +1,17 @@
+{
+    "ar": {
+        "appName": "شاغر",
+        "welcomeMessage": "اهلا بك في تطبيق شاغر للتوظيف",
+        "userName": "اسم المستخدم",
+        "myProfile": "ملف المستخدم",
+        "language": "اللغة",
+        "themes": "الاوضاع",
+        "termsAndConditions": "الأحكام و الشروط",
+        "darkMode": "الوضع الداكن",
+        "lightMode": "الوضع المضيء",
+        "selectLanguage": "من فضلك اختر اللغة",
+        "english": "الانجليزية",
+        "arabic": "العربية",
+        "cancel": "الغاء"
+    }
+}
